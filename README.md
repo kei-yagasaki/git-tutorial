@@ -5,3 +5,5 @@
   - feature-C
   - hogehoge
   - fugafuga
+  - hogehoge
+  - fugafuga
